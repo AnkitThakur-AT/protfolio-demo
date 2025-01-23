@@ -1,5 +1,5 @@
 # protfolio-demo
-this is mr first reposietry
+this is my first reposietry
 <br>
 auther-ankit thakur
 
